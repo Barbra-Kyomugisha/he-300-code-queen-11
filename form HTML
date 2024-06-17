@@ -16,7 +16,10 @@
                 <label for="1name">Last name</label>
                 <input type="text" id="1name" name="1name" placeholder="Enter Last name">
                 <label for="Email">Email address</label>
-                <input type="text" placeholder="Enter email"id>
+                <input type="text" placeholder="Enter email"id="email" name="email" required>
+                <label for="pwd">Password</label>
+                <input type="password" placeholder="Enter password" id="pwd" name="pwd"><br>
+                <button type="submit" class="registerbtn">Register</button>
             </form>
 
 

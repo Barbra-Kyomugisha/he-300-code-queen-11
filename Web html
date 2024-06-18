@@ -1,45 +1,24 @@
-<!DOCTYPE html>
+h<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0>
-        <title>Beginner-Friendly HTML Resources</title>
-        <style>
-            body{
-                font-family: Arial, sans-serif;
-                margin: 20px;
-
-            }
-            ul{
-                list-style-type: none;
-                padding: 0;
-
-            }
-            li {
-                margin: 10px 0;
-
-            }
-            a {
-                text-decoration: none;
-                color: #000;
-
-            }
-            a:hover{
-                text-decoration: underline;
-            }
-
-        </style>
+        <title>USER FRIENDLY WEBSITES</title>
     </head>
     <body>
-        
-        <h1>Beginner-Friendly HTML Resources</h1>
+        <h4>HTML USER FRIENDLY WEBSITES</h4>
         <ul>
-            <li><a href="https://ww.w3schools.com/html/" target="_blank">w3schools HTML Tutorial</a></li>
-                <li><a href="https://developer.mozilla.org/en-US/docs/web/HTML" target="_blank">MDN Web Docs HTML Guide</a></li>
-                    <li><a href="https://htmldog.com/guides/html/beginner/" target="_blank">HTML Dog HTML Beginner Tutorial</a></li>
-                        <li><a href="https//www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html15" target="_blank">freecodecamp HTML Tutorial</a></li>
-                            <li><a href="https://www.codecademy.com/learn/learn-html" target="_blank">Codecademy Learn HTML</a/li>
+            <li>Codecademy</li><br>
+            <a href="https://www.codecademy.com/">visit site</a><br>
+            <li>W3schools</li><br>
+            <a href="https://www.w3schools.com/">visit site</a>><br>
+            <li>Lynda.com</li><br>
+            <a href="https://www.linkedin.com/learning/?trk=lynda_redirect_learning">visit site</a><br>
+            <li>General Assembly Dash</li><br>
+            <a href="https://dash.generalassemb.ly/">visit site</a>
+            <li>Team Treehouse</li><br>
+            <a href="https://treehouse.com/">visit site</a>"
+      
         </ul>
     </body>
-
 </html>
